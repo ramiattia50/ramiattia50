@@ -2,7 +2,7 @@
 - 👀 I’m interested in development
 - 🌱 I’m currently learning react and node.js
 - 💞️ I’m looking to collaborate on creating web sites
-- 📫 How to reach me contact me on facebook
+- 📫 How to reach me contact me on facebook or ig
 - 😄 Pronouns: rami
 - ⚡ Fun fact: nothing
 
